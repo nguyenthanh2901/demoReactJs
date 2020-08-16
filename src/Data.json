@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Nguyen Thanh",
+        "phone": "0989287362",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Nguyen Long",
+        "phone": "0989229362",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Nguyen Yen",
+        "phone": "0989017362",
+        "permission": 0
+    },
+    {
+        "id": 3,
+        "name": "Tran Yen",
+        "phone": "0989017362",
+        "permission": 0
+    }
+]
